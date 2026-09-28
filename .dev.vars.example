@@ -1,0 +1,5 @@
+GOOGLE_AI_API_KEY=replace_me
+# Optional shared preview token. This is only a speed bump in a mobile binary.
+CLIENT_TOKEN=
+# Set to true to test the complete API without Google AI.
+MOCK_AI=true

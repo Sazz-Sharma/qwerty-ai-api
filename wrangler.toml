@@ -1,0 +1,12 @@
+name = "nepali-keyboard-api"
+main = "src/index.ts"
+compatibility_date = "2025-09-06"
+
+[vars]
+AI_PROVIDER = "google"
+GOOGLE_AI_MODEL = "gemma-4-31b-it"
+GROQ_MODEL = "qwen/qwen3.8-27b"
+MOCK_AI = "true"
+
+[dev]
+port = 8787
